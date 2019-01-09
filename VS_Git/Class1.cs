@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace VS_Git
 {
-    class Program
+    class Class1
     {
-        static void Main(string[] args)
-        {
-            Class1 obj1 = new Class1();
-        }
     }
 }
